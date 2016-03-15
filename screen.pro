@@ -10,8 +10,7 @@ TARGET = screen
 TEMPLATE = app
 
 
-SOURCES += main.cpp\
-    em335x_rtc.cpp
+SOURCES += main.cpp
 
 HEADERS  += \
     em335x_rtc.h
