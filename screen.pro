@@ -12,5 +12,3 @@ TEMPLATE = app
 
 SOURCES += main.cpp
 
-HEADERS  += \
-    em335x_rtc.h
